@@ -1,0 +1,19 @@
+body{background:#D2D460;text-align:center;}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+
+label{width: 800px;line-height:25px;} 
+
+input {
+	width: 180px;
+	border: 1px solid #808080;
+}
